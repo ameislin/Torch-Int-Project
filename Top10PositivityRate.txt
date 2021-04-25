@@ -1,0 +1,3 @@
+This specific request says top 10 states, so I removed the territories and DC from this result. If they were included, Puerto Rico would be number 2 on the list.
+
+This matches what has been in the news recently, which is that Michigan has been seeing a spike of cases. Every other state is below 10% for the last 30 days out of the results reported. 
